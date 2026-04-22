@@ -37,6 +37,7 @@ The rapid expansion of mobile applications and the massive amount of data they g
 However, cloud computing also presents major challenges, particularly in terms of security and privacy, especially when dealing with sensitive medical data.
 
 ## Summary 
+
 | Technology | Function | Benefit |
 |:-----------|:-----------------|:-------------------|
 | Mobile devices | Collect patient data in real time | Continuous monitoring |
