@@ -40,3 +40,4 @@ However, cloud computing also presents major challenges, particularly in terms o
 In conclusion, networked healthcare can leverage mobile cloud computing and Big Data analytics to manage large volumes of clinical information efficiently and in real time. These technologies are revolutionizing biomedicine, although important challenges such as data security and privacy still need to be addressed.
 https://developer.apple.com/documentation/healthkit
 https://ieeexplore.ieee.org/abstract/document/7576619
+https://acropolium.com/blog/cloud-computing-healthcare/
