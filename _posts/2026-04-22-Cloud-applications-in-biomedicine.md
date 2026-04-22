@@ -51,7 +51,9 @@ In conclusion, networked healthcare can leverage mobile cloud computing and Big 
 ## References
 [1] HealthKit.
 https://developer.apple.com/documentation/healthkit
+
 [2] Cloud computing in Healthcare.
 https://ieeexplore.ieee.org/abstract/document/7576619
+
 [3] Mobile Cloud Computing Model and Big Data Analysis for Healthcare Applications.
 https://acropolium.com/blog/cloud-computing-healthcare/
