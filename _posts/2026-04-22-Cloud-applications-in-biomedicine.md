@@ -29,6 +29,8 @@ This model allows healthcare professionals to access advanced analytical tools a
 
 It is considered essential that Electronic Health Records (EHR), Personal Health Records (PHR), and Health Information Exchange (HIE) systems become the technological foundation of modern healthcare systems. Thanks to this model, costs, medical errors, and organizational inefficiencies are reduced.
 
+![Cloud](/images/CLOUDIMAGE.png){: .mx-auto.d-block :}
+
 ## Applications and Technical Evolution
 There are already various applications available, such as HealthKit, which centralizes health and fitness data from iPhone and Apple Watch devices, allowing third-party apps to share information securely and with user authorization. Other applications are capable of receiving patient data through wireless sensor networks, enabling the collection of physiological parameters from multiple patients using sensors attached to the body.
 
